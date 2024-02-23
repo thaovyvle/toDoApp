@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/thaovyvle/toDoApp/static/js/main.4e82d476.js",
+    "static/js/697.ad8ccb00.js": "/thaovyvle/toDoApp/static/js/697.ad8ccb00.js",
+    "static/media/MaterialIcons.ttf": "/thaovyvle/toDoApp/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "favicon.ico": "/thaovyvle/toDoApp/favicon.ico",
+    "index.html": "/thaovyvle/toDoApp/index.html",
+    "static/media/rocket.png": "/thaovyvle/toDoApp/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/thaovyvle/toDoApp/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/thaovyvle/toDoApp/favicon-32.png",
+    "static/media/star.png": "/thaovyvle/toDoApp/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/thaovyvle/toDoApp/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/thaovyvle/toDoApp/favicon-16.png",
+    "serve.json": "/thaovyvle/toDoApp/serve.json",
+    "manifest.json": "/thaovyvle/toDoApp/manifest.json",
+    "main.4e82d476.js.map": "/thaovyvle/toDoApp/static/js/main.4e82d476.js.map",
+    "697.ad8ccb00.js.map": "/thaovyvle/toDoApp/static/js/697.ad8ccb00.js.map"
+  },
+  "entrypoints": [
+    "static/js/697.ad8ccb00.js",
+    "static/js/main.4e82d476.js"
+  ]
+}
